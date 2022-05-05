@@ -1,3 +1,7 @@
+package Colecciones;
+
+import Colecciones.GenericCollection;
+
 public class GenericQueue<T> {
     private static final int INITIAL_CAPACITY = 5;
 

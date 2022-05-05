@@ -1,4 +1,8 @@
-    public class GenericStack<T> {
+package Colecciones;
+
+import Colecciones.GenericCollection;
+
+public class GenericStack<T> {
 
         private static final int CAPACIDAD_INICIAL = 5;
 
